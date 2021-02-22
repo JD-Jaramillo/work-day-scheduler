@@ -31,7 +31,7 @@ body {
   }
   
   .row {
-    white-space: pre-wrap;
+    white-space: inherit;
     height: 80px;
     border-top: 1px solid white;
   }
@@ -62,6 +62,11 @@ body {
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     background-color: #06AED5;
+    color: white;
+    height: 100%;
+  }
+
+  i {
     color: white;
   }
   
