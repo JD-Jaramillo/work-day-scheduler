@@ -18,7 +18,7 @@ Added the appropriate styling for the page to match the criteria requested, incl
 
 
 ## JS 
-Added the date that automaticaly updates at the top of the page as well as several fucntions and a click event to make the colors for the hours automaticaly update based on the curren time and for the event saved with the save button to be set in the lcoal storage and pushed onto an array which makes it so that the page is reset the saved events persist on the page. 
+Added the date that automaticaly updates at the top of the page as well as several functions and a click event to make the colors for the hours automaticaly update based on the current time. The click event "save button" sets the input values into the local storage which makes it so that when the page is reset the saved events persist on the page. 
 
 Link to deployed work day scheduler: [Deployed site](https://jd-jaramillo.github.io/work-day-scheduler/)
 
