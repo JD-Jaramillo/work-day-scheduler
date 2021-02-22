@@ -11,18 +11,18 @@ A calendar application that allows a user to save events for each hour of the da
 * [Contributing](#Contributing)
 
 ## HTML
-
+Added the timeblocks for the rows that will display the hour blocks for the day scheduler, including the save buttons with the icons from Fontawesome.com. 
 
 ## CSS
-
+Added the appropriate styling for the page to match the criteria requested, including the styling for the butons. 
 
 
 ## JS 
+Added the date that automaticaly updates at the top of the page as well as several fucntions and a click event to make the colors for the hours automaticaly update based on the curren time and for the event saved with the save button to be set in the lcoal storage and pushed onto an array which makes it so that the page is reset the saved events persist on the page. 
 
+Link to deployed work day scheduler: [Deployed site](https://jd-jaramillo.github.io/work-day-scheduler/)
 
-Link to deployed work day scheduler: [Deployed site]()
-
-![image of work day scheduler]()
+![image of work day scheduler](/images/image-work-day-scheduler.png)
 
 ## Requirements
 GIVEN I am using a daily planner to create a schedule
@@ -43,10 +43,10 @@ THEN the saved events persist
 
 There is no need to install anything, to use the work day scheduler simply follow the link below. 
 
-See deployed site here: [Deployed Site]()
+See deployed site here: [Deployed Site](https://jd-jaramillo.github.io/work-day-scheduler/)
 
 
-See repository here: [GitHub Repo]()
+See repository here: [GitHub Repo](https://github.com/JD-Jaramillo/work-day-scheduler)
 
 ## Contributing
 
